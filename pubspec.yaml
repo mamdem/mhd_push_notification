@@ -1,7 +1,7 @@
 name: mhd_push_notification
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mamdem/mhd_push_notification
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
